@@ -1,0 +1,26 @@
+{
+  "name": "amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apps.js",
+  "dependencies": {
+    "init": "^0.1.2",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnc2011/amazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnc2011/amazon/issues"
+  },
+  "homepage": "https://github.com/rnc2011/amazon#readme"
+}
